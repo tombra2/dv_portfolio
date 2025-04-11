@@ -1,3 +1,5 @@
 <?php
-
-echo "Hallo Wöd2";
+require "inc/header.php";
+require "inc/navbar.php";
+require "inc/footer.php";
+echo phpversion();
